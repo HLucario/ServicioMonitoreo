@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ServicioMonitoreo</string>
+    <string name="e_iniciar">Iniciar Sesión</string>
+    <string name="e_correo">Correo electrónico</string>
+    <string name="e_contrasena">Contraseña</string>
+    <string name="e_seleccion">Seleccione el hijo a monitorear en este dispositivo</string>
+    <string name="e_aceptar">Aceptar</string>
+    <string name="e_finalizar">Finalizar</string>
+</resources>
